@@ -1,2 +1,10 @@
 Here's a new text file pushed from vs code source control!
+<<<<<<< HEAD
 HAHAHAHAHA 
+=======
+A few
+more
+lines
+of
+text.
+>>>>>>> 8e82e6632a89980082b38b2beeee4379ccb9bab6
