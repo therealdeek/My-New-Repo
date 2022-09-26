@@ -1,6 +1,5 @@
 Here's a new text file pushed from vs code source control!
 <<<<<<< HEAD
-HAHAHAHAHA <<<<<<< HEAD
 HAHAHAHAHA 
 =======
 A few
